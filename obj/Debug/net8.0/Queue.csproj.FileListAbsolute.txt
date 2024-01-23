@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\BTK-Akademi\Queue\bin\Debug\net8.0\Queue.exe
+c:\Users\HP\Desktop\BTK-Akademi\Queue\bin\Debug\net8.0\Queue.deps.json
+c:\Users\HP\Desktop\BTK-Akademi\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+c:\Users\HP\Desktop\BTK-Akademi\Queue\bin\Debug\net8.0\Queue.dll
+c:\Users\HP\Desktop\BTK-Akademi\Queue\bin\Debug\net8.0\Queue.pdb
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.dll
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\refint\Queue.dll
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.pdb
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+c:\Users\HP\Desktop\BTK-Akademi\Queue\obj\Debug\net8.0\ref\Queue.dll
